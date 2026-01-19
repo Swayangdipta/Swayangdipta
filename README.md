@@ -52,8 +52,6 @@ I specialize in jumping into existing projects, understanding them quickly, and 
 
 ## 🧪 Example Work
 
-(Add links/screenshots here)
-
 * Chat application backend
 * Product & category management system
 * Dashboard systems
@@ -67,10 +65,9 @@ I specialize in jumping into existing projects, understanding them quickly, and 
 
 If your project is **stuck, broken, slow, or incomplete**, I can help.
 
-📧 Email: [yourmail@example.com](mailto:yourmail@example.com)
-💬 WhatsApp / Telegram: +91-XXXXXXXXXX
-🐙 GitHub: [https://github.com/yourname](https://github.com/yourname)
-🌐 Portfolio (optional)
+📧 Email: swayangdiptacc@gmail.com
+💬 WhatsApp / Telegram: +91-9332701811
+🐙 GitHub: [https://github.com/yourname](https://github.com/Swayangdipta)
 
 > Free 10-minute discussion to understand your problem.
 
@@ -88,5 +85,3 @@ If your project is **stuck, broken, slow, or incomplete**, I can help.
 ---
 
 ⭐ If this helped you, consider giving the repo a star.
-
-Email: swayangdiptacc@gmail.com
