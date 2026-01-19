@@ -67,7 +67,7 @@ If your project is **stuck, broken, slow, or incomplete**, I can help.
 
 📧 Email: swayangdiptacc@gmail.com
 💬 WhatsApp / Telegram: +91-9332701811
-🐙 GitHub: [https://github.com/yourname](https://github.com/Swayangdipta)
+🐙 GitHub: [https://github.com/Swayangdipta](https://github.com/Swayangdipta)
 
 > Free 10-minute discussion to understand your problem.
 
